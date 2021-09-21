@@ -1,0 +1,3 @@
+# proto
+Prototype for looking up recipes by ingredients using async JS calls to the Spoonacular API.
+Running on React Native thru Expo...
